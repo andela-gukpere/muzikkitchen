@@ -51,7 +51,7 @@ if(isset($_POST["add"]))
 {
 	$img = $_FILES["upl"]["tmp_name"];
 	$video  = $_FILES["vid"]["tmp_name"];
-	if(is_uploaded_file($video))
+	if(is_uploaded_file($video) && preg_match('/mp4|avi|mpeg|3gp|mkv|flv|mov/', extension($_FILES["vid"]["name"])))
 	{
 		$_300x300 = is_uploaded_file($img)?upload_pic($img,$_FILES["upl"]["type"],$_FILES["upl"]["tmp_name"],300,300):DEF_VID_IMG;		
 		$vid = md5($video." ".date("U")).rand(0,9).extension($_FILES["vid"]["name"]);

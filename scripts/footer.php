@@ -1,0 +1,3 @@
+<div align="center" class="footer" ><a href='<?php echo PTH; ?>/?force_mobile' >Mobile Site</a> | <a href='<?php echo PTH; ?>/getting_started'>Getting Started</a> | Developed by <a href="http://godson.com.ng">Godson Ukpere</a> | <a href='<?php echo PTH; ?>/tos' target="_blank" >Terms of Use</a> | <a href='<?php echo PTH; ?>/tos' target="_blank" >Trademarks</a> | <a href='<?php echo PTH; ?>/tos' target="_blank" >Privacy Statement</a>
+&copy; <?php echo date("Y")  ?> Muzik Kitchen Inc. All Right Reserved.<br/><br/><br/>
+</div>

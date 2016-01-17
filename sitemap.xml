@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+
+      <loc>http://www.muzikkitchen.com/</loc>
+
+      <lastmod>2012-04-04</lastmod>
+
+      <changefreq>always</changefreq>
+
+      <priority>1.0</priority>
+
+   </url>
+<url>
+
+      <loc>   http://www.muzikkitchen.com/?search</loc>
+
+      <lastmod>2012-04-04</lastmod>
+
+      <changefreq>always</changefreq>
+
+      <priority>1.0</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.muzikkitchen.com/?wall</loc>
+
+      <lastmod>2012-04-04</lastmod>
+
+      <changefreq>always</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+   
+   
+   <url>
+
+      <loc>http://www.muzikkitchen.com/#!/</loc>
+
+      <lastmod>2012-04-04</lastmod>
+
+      <changefreq>always</changefreq>
+
+      <priority>0.9</priority>
+
+   </url>
+	
+	
+   <url>
+
+      <loc>http://www.muzikkitchen.com/hindex.php</loc>
+
+      <lastmod>2012-04-04</lastmod>
+
+      <changefreq>always</changefreq>
+
+      <priority>0.9</priority>
+
+   </url>
+   
+   
+   <url>
+
+      <loc>http://www.muzikkitchen.com/#!/search</loc>
+
+      <lastmod>2012-04-04</lastmod>
+
+      <changefreq>always</changefreq>
+
+      <priority>1.0</priority>
+
+   </url>
+<url>
+
+      <loc>http://www.muzikkitchen.com/#!/</loc>
+
+      <lastmod>2012-04-04</lastmod>
+
+      <changefreq>always</changefreq>
+
+      <priority>1.0</priority>
+
+   </url>
+<url>
+
+      <loc>http://www.muzikkitchen.com/#!/wall</loc>
+
+      <lastmod>2012-04-04</lastmod>
+
+      <changefreq>always</changefreq>
+
+      <priority>1.0</priority>
+
+   </url>
+   
+   <url>
+
+      <loc>http://www.muzikkitchen.com/?search=</loc>
+
+      <lastmod>2012-04-04</lastmod>
+
+      <changefreq>always</changefreq>
+
+      <priority>1.0</priority>
+
+   </url>
+
+   
+   <url>
+
+      <loc>http://www.muzikkitchen.com/#!/trend=</loc>
+
+      <lastmod>2012-04-04</lastmod>
+
+      <changefreq>always</changefreq>
+
+      <priority>1.0</priority>
+
+   </url>
+<url><loc>http://www.muzikkitchen.com/getting_started/</loc><changefreq>always</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.muzikkitchen.com/?force_mobile</loc><changefreq>always</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.muzikkitchen.com/tos/</loc><changefreq>always</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.muzikkitchen.com/getting_started/?force_mobile</loc><changefreq>always</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.muzikkitchen.com/?force_web=2</loc><changefreq>always</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.muzikkitchen.com/m/getting_started/</loc><changefreq>always</changefreq><priority>0.69</priority></url>
+<url><loc>http://www.muzikkitchen.com/?force_web</loc><changefreq>always</changefreq><priority>0.56</priority></url>
+
+
+</urlset> 

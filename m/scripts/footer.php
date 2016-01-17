@@ -1,0 +1,3 @@
+<div align="center" class="footer" ><a href='./?force_web=2' title="If your logged into mobile site and you want to switch">Full Site</a> | <a href='./m/getting_started'>Getting Started</a> | Developed by <a href="http://godson.com.ng">Godson Ukpere</a> | <a href='./tos' target="_blank" >Terms of Use</a> | <a href='./tos' target="_blank" >Trademarks</a> | <a href='./tos' target="_blank" >Privacy Statement</a>
+&copy; <?php echo date("Y")  ?> Muzikkitchen Inc. All Right Reserved.<br/><br/><br/>
+</div>
